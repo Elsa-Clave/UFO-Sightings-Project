@@ -8,8 +8,6 @@
 
 
 ## Table of contents
-- [Table of contents](#table-of-contents)
-  - [LINK TO DASHBOARD: https://public.tableau.com/views/UFOSightingProject/STORYUFOS?:language=en-US\&:sid=\&:display\_count=n\&:origin=viz\_share\_link](#link-to-dashboard-httpspublictableaucomviewsufosightingprojectstoryufoslanguageen-ussiddisplay_countnoriginviz_share_link)
 - [Introducción:](#introducción)
 - [PLANTEAMIENTO HIPÓTESIS](#planteamiento-hipótesis)
   - [HIPÓTESIS 1](#hipótesis-1)
@@ -23,19 +21,6 @@
   - [HIPOTESIS 3](#hipotesis-3)
 - [CONCLUSIONES:](#conclusiones)
 - [ENGLISH INFO:](#english-info)
-- [Introduction:](#introduction)
-- [HYPOTHESIS APPROACH](#hypothesis-approach)
-  - [HYPOTHESIS 1](#hypothesis-1)
-  - [HYPOTHESIS 2](#hypothesis-2)
-  - [HYPOTHESIS 3](#hypothesis-3)
-- [PROCESS](#process)
-- [RESULTS:](#results)
-  - [HYPOTHESIS 1](#hypothesis-1-1)
-  - [HYPOTHESIS 2](#hypothesis-2-1)
-  - [HYPOTHESIS 3](#hypothesis-3-1)
-- [CONCLUSION:](#conclusion)
-
-
 
 ### LINK TO DASHBOARD: https://public.tableau.com/views/UFOSightingProject/STORYUFOS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
