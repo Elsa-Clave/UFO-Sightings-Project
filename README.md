@@ -1,26 +1,27 @@
 <h2 align="center">🔭 THE UFO SIGHTINGS PROJECT 🛸</h2> 
 <div style="text-align:center;">
-
+  
+<p align="center">
 <img src="Images/GettyImages-1435285902.original.jpg" alt="Sharks" width="600" >
-</div>
+</p>
 
 <p align="center"><i>Description available in ES and ENG</i>
 
 
 ## Table of contents
-- [Introducción:](#introducción)
+- [INTRODUCCIÓN](#introducción)
 - [PLANTEAMIENTO HIPÓTESIS](#planteamiento-hipótesis)
   - [HIPÓTESIS 1](#hipótesis-1)
   - [HIPÓTESIS 2](#hipótesis-2)
   - [HIPÓTESIS 3](#hipótesis-3)
-- [PROCESO:](#proceso)
-  - [PROCESO FRUSTRANTE… Y PRODUCTIVO (APRRENDIENDO MUCHAS COSAS DE MYSQL)](#proceso-frustrante-y-productivo-aprrendiendo-muchas-cosas-de-mysql)
-- [RESULTADOS:](#resultados)
-  - [HIPOTESIS 1](#hipotesis-1)
-  - [HIPOTESIS 2](#hipotesis-2)
-  - [HIPOTESIS 3](#hipotesis-3)
-- [CONCLUSIONES:](#conclusiones)
-- [ENGLISH INFO:](#english-info)
+- [PROCESO](#proceso)
+  - [PROCESO FRUSTRANTE… Y PRODUCTIVO (APRENDIENDO MUCHAS COSAS DE MYSQL)](#proceso-frustrante-y-productivo-aprrendiendo-muchas-cosas-de-mysql)
+- [RESULTADOS](#resultados)
+  - [HIPÓTESIS 1](#hipotesis-1)
+  - [HIPÓTESIS 2](#hipotesis-2)
+  - [HIPÓTESIS 3](#hipotesis-3)
+- [CONCLUSIONES](#conclusiones)
+- [ENGLISH INFO](#english-info)
 
 ### LINK TO DASHBOARD: https://public.tableau.com/views/UFOSightingProject/STORYUFOS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
@@ -34,14 +35,9 @@ Las fechas y horas, junto con la duración de la estancia del OVNI y la descripc
 
  ¿Los extraterrestres trabajan los fines de semana? Cúando es mas probable ver a ET?
 
-<div style="text-align:center;">
-    <div style="display:inline-block;">
-        <img src="Images/Capture.JPG" alt="Sharks" width="320">
-    </div>
-    <div style="display:inline-block;">
-        <img src="Images/aliens3-5ad508d0c064710038448fdf.jpg" alt="Sharks" width="370">
-    </div>
-</div>
+<p align="center">
+        <img src="Images/Capture.JPG" alt="Sharks" width="300"> <img src="Images/aliens3-5ad508d0c064710038448fdf.jpg" alt="Sharks" width="410">
+</p>
 
 ## PLANTEAMIENTO HIPÓTESIS
 (Posteriormente presento resultados con apoyo de Dashbord de Tableau)
@@ -55,22 +51,16 @@ La duración de los avistamientos es corta, pues hay datos registrados en medida
 ### HIPÓTESIS 3 
 Como hemos visto en las peliculas, la mayoria de avistamientos son con naves en forma de disco o platillo. Sera así?
 
-<div style="text-align:center;">
-    <div style="display:inline-block;">
-        <img src="Images/Capture3.JPG" alt="Sharks" width="250">
-    </div>
-    <div style="display:inline-block;">
-        <img src="Images/Capture2.JPG" alt="Sharks" width="370">
-    </div>
-</div>
+<p align="center">
+        <img src="Images/Capture3.JPG" alt="Sharks" width="250"><img src="Images/Capture2.JPG" alt="Sharks" width="370">
+</p>
 
 ## PROCESO:
-### PROCESO FRUSTRANTE… Y PRODUCTIVO (APRRENDIENDO MUCHAS COSAS DE MYSQL)
+### PROCESO FRUSTRANTE… Y PRODUCTIVO (APRENDIENDO MUCHAS COSAS DE MYSQL)
 
-<div style="text-align:center;">
-    <div style="display:inline-block;">
+<p align="center">
         <img src="Images/1710963145349.jpg" alt="Sharks" width="450">
-    </div>
+</p>
 
 <p align="center"><i>Mi visión:de los tiburones pasamos a los aliens…</i>
 
@@ -93,10 +83,9 @@ El impedimento no erradicaba el hecho de crear las tablas (en base a la tabla pr
 Pues quería incluir en la tabla base (madre), las columnas de Foreign Key creades en las subtablas, o tablas (hijas)  para establecer las relaciones y para desupés borrar de la tabla principal las columnas ya presentes en otras tablas (para tener todo mas limpio y no tener info repetida y así poder crear queries con joins). (Menudo lio no?)
 </div>
 
-<div style="text-align:center;">
-    <div style="display:inline-block;">
+<p align="center">
         <img src="Images/Schema_ufo.png" alt="Sharks" width="450">
-    </div>
+ </p>  
 <p align="center"><i>Mi schema</i>
 
 <div style="text-align: left;">
@@ -180,11 +169,9 @@ Luego afortunadamente ya pude continuar con el proceso del project con los requi
 
 ## RESULTADOS:
 
-<div style="text-align:center;">
-    <div style="display:inline-block;">
+<p align="center">
         <img src="Images/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Sharks" width="300">
-    </div>
-</div>
+ </p>
 
 ### HIPOTESIS 1
 
@@ -225,11 +212,9 @@ A pesar que los datos originales sean limitados (hay muchas observaciones de USA
 </div>
 
 
-<div style="text-align:center;">
-    <div style="display:inline-block;">
+<p align="center">
         <img src="Images/d4izsou-kugsl1ns_jvjda.jpg" alt="Sharks" width="500">
-    </div>
-</div>
+</p>
 
 ---
 ## ENGLISH INFO:
